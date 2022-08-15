@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border-radius: 3px solid #7958d7;
+  }
+  .boxs {
+    display: flex;
+    float: left;
+    position: relative;
+    padding: 1.25rem;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    text-decoration: none;
+    width: 580px;
+    height: 350px;
+    border: 3px solid #e6e6e6;
+    margin: 10px;
+    word-break: break-word;
+    background: #ffffff;
+  }
+  
+  .imgBx img {
+    width: 100%;
+    border-radius: 4px;
+  }
+  
+  .box .content {
+    padding: 14px;
+    font-size: 20px;
+    letter-spacing: 0.3px;
+    color: #212121;
+    opacity: 1;
+  }
+  .blogcard {
+  
+    /* border-radius: 10px; */
+    text-decoration: none;
+    letter-spacing: 0.3px;
+    /* width: 500px; */
+    height: 400px;
+    margin-left: auto;
+    max-width: 35rem;
+    /* min-width: 22rem; */
+    border: 3px solid #e6e6e6;
+    margin: 15px;
+    word-break: break-word;
+    background: #ffffff;
+  }
+  
+  .dates {
+    display: flex;
+    margin-left: 10px;
+  }
+  
+  .eventgparagrapgh {
+    color: var(--unnamed-color-212121);
+    text-align: left;
+    /* font: normal normal normal 27px/40px Poppins; */
+    letter-spacing: 0.27px;
+    color: #212121;
+    opacity: 1;
+  }
+  
+  @media (max-width: 767px) {
+    .services .content .box {
+      width: 100%;
+    }
+  }
+  

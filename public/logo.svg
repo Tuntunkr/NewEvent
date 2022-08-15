@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="264" height="73" viewBox="0 0 264 73">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe2045"/>
+      <stop offset="1" stop-color="#fe0029"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3889" data-name="Group 3889" transform="translate(-140 -73)">
+    <g id="Group_3888" data-name="Group 3888">
+      <circle id="Ellipse_22" data-name="Ellipse 22" cx="6" cy="6" r="6" transform="translate(164 95)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_25" data-name="Ellipse 25" cx="6" cy="6" r="6" transform="translate(164 112)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_27" data-name="Ellipse 27" cx="4" cy="4" r="4" transform="translate(166 129)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_39" data-name="Ellipse 39" cx="2" cy="2" r="2" transform="translate(168 142)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_42" data-name="Ellipse 42" cx="2" cy="2" r="2" transform="translate(168 73)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_43" data-name="Ellipse 43" cx="2" cy="2" r="2" transform="translate(140 99)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_45" data-name="Ellipse 45" cx="2" cy="2" r="2" transform="translate(214 99)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_44" data-name="Ellipse 44" cx="2" cy="2" r="2" transform="translate(140 115)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_46" data-name="Ellipse 46" cx="2" cy="2" r="2" transform="translate(214 115)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_40" data-name="Ellipse 40" cx="2" cy="2" r="2" transform="translate(188 142)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_41" data-name="Ellipse 41" cx="2" cy="2" r="2" transform="translate(188 73)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_32" data-name="Ellipse 32" cx="4" cy="4" r="4" transform="translate(149 129)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_33" data-name="Ellipse 33" cx="4" cy="4" r="4" transform="translate(149 113)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_36" data-name="Ellipse 36" cx="4" cy="4" r="4" transform="translate(149 97)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_37" data-name="Ellipse 37" cx="4" cy="4" r="4" transform="translate(149 82)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_29" data-name="Ellipse 29" cx="4" cy="4" r="4" transform="translate(166 82)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_28" data-name="Ellipse 28" cx="4" cy="4" r="4" transform="translate(186 129)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_31" data-name="Ellipse 31" cx="4" cy="4" r="4" transform="translate(201 129)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_34" data-name="Ellipse 34" cx="4" cy="4" r="4" transform="translate(201 113)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_35" data-name="Ellipse 35" cx="4" cy="4" r="4" transform="translate(201 97)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_38" data-name="Ellipse 38" cx="4" cy="4" r="4" transform="translate(201 82)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_30" data-name="Ellipse 30" cx="4" cy="4" r="4" transform="translate(186 82)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_23" data-name="Ellipse 23" cx="6" cy="6" r="6" transform="translate(184 95)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="6" cy="6" r="6" transform="translate(184 112)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="PolkaEvent" transform="translate(233 118)" fill="#fe072f" font-size="30" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.01em"><tspan x="0" y="0">PolkaEvent</tspan></text>
+  </g>
+</svg>
